@@ -7,4 +7,4 @@ Historical Projects
 
 [CCAnimationEditor](https://github.com/gregnk/CCAnimationEditor)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gregnk&theme=dark&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gregnk&theme=dark&background=0D1117&type=png)](https://git.io/streak-stats)
