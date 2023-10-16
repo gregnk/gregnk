@@ -5,3 +5,5 @@ Current Projects
 Historical Projects
 -----------------------------
 [CCAnimationEditor](https://github.com/gregnk/CCAnimationEditor)
+
+[![Top Langs](https://github-readme-stats-lwd-temp.vercel.app//api/top-langs/?username=gregnk&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
